@@ -12,7 +12,7 @@ namespace Bulky.DataAccess.Repository.IRepository
         //This interface will have all the methods of the IRepository interface
         //and any additional methods specific to the Category entity
         void Update(Category category);
-        void Save();
+        //void Save();
     }
     
 }
